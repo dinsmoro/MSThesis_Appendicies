@@ -11,7 +11,10 @@ Dataset can be found at: http://madrigal.haystack.mit.edu/cgi-bin/madrigal/madEx
 Supporting functions are also provided to allow the code to be run.
 
 **FUN A-1:** Function to Convert Date to Julian Date: **date2jd.m**
+
 This function converts the date to the Julian date for aligning the time correctly. It was coded by Peter J. Acklam. It was run on MATLAB R2016b.
 
+
 **FUN A-2:** Function to Run Lomb-Scargle Spectral Analysis: **Ross_Lombscargle_optimized.m**
+
 This function quickly runs a Lomb-Scargle spectral analysis on a given time series that does not need to be evenly spaced in time. It was written by Dr. Brett Shoelson, modified by Dr. Sumanta Sarkhel, and finally optimized by me. It was developed on MATLAB R2016b.
