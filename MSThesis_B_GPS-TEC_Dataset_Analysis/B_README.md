@@ -10,7 +10,7 @@ For the AMPERE/JEDI Heating data, there is no support as the datasets are prelim
 
 
 
-*This research was supported under NSF Grant AGS 12-41407 to The Pennsylvania State University.*
+**This research was supported under NSF Grant AGS 12-41407 to The Pennsylvania State University.**
 
 
 
