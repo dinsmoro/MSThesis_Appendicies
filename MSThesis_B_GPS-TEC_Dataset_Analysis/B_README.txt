@@ -26,4 +26,3 @@ This function converts day number (the cumulative number of days into a year the
 
 FUN B-7: Function to Convert Day Number to Dates for Multiple Day Numbers: sFUN_dayNumber_to_Date_MULTIPLE.m
 This function converts a consecutive range of day numbers (the cumulative number of days into a year the date is) to their respective dates. It was developed on MATLAB R2016B.
-
