@@ -12,36 +12,39 @@ For the geomagnetic latitude and longitude support, this code relies on an exter
 For the AMPERE/JEDI Heating data, there is no support as the datasets are preliminary and not available.
 
 
-**FUN B-1**: Function to Convert Geographic to Geomagnetic Coordinates: **sFUN_geoToGeomag.m**
+*Supporting functions are also provided so the code can be run.*
+
+
+**FUN B-1:** Function to Convert Geographic to Geomagnetic Coordinates: **sFUN_geoToGeomag.m**
 
 This function converts geographic coordinates to geomagnetic coordinates using an external function set for the conversion process. It was developed on MATLAB R2016B.
 
 
-**FUN B-2**: Function to get Kp Index Data: **sFUN_KpIndexGET.m**
+**FUN B-2:** Function to get Kp Index Data: **sFUN_KpIndexGET.m**
 
 This function gets Kp index data for the requested days. Requires internet access. It was developed on MATLAB R2016B.
 
 
-**FUN B-3**: Function to get OMNI Data: **sFUN_OMNIGET.m**
+**FUN B-3:** Function to get OMNI Data: **sFUN_OMNIGET.m**
 
 This function gets OMNI data for the requested days. Requires internet access. It was developed on MATLAB R2016B.
 
 
-**FUN B-4**: Function to Convert Date to Day Number: **sFUN_dateToDayNum.m**
+**FUN B-4:** Function to Convert Date to Day Number: **sFUN_dateToDayNum.m**
 
 This function converts a given date to day number (the cumulative number of days into a year the date is). It was developed on MATLAB R2016B.
 
 
-**FUN B-5**: Function to Convert Date to Number of Days in the Month: **sFUN_dateToNumDaysInTheMonth.m**
+**FUN B-5:** Function to Convert Date to Number of Days in the Month: **sFUN_dateToNumDaysInTheMonth.m**
 
 This function converts a given date to the number of days in the month. It was developed on MATLAB R2016B.
 
 
-**FUN B-6**: Function to Convert Day Number to its Date: **sFUN_dayNumber_to_Date.m**
+**FUN B-6:** Function to Convert Day Number to its Date: **sFUN_dayNumber_to_Date.m**
 
 This function converts day number (the cumulative number of days into a year the date is) to the current date. It was developed on MATLAB R2016B.
 
 
-**FUN B-7**: Function to Convert Day Number to Dates for Multiple Day Numbers: **sFUN_dayNumber_to_Date_MULTIPLE.m**
+**FUN B-7:** Function to Convert Day Number to Dates for Multiple Day Numbers: **sFUN_dayNumber_to_Date_MULTIPLE.m**
 
 This function converts a consecutive range of day numbers (the cumulative number of days into a year the date is) to their respective dates. It was developed on MATLAB R2016B.
