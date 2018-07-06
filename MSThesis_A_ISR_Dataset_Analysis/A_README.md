@@ -8,7 +8,7 @@ This code reads, prepares, and analyzes the ISR dataset in a multitude of ways. 
 Dataset can be found at: http://madrigal.haystack.mit.edu/cgi-bin/madrigal/madExperiment.cgi?exp=experiments/2013/mlh/06may13&displayLevel=1&expTitle=Rapid%20TID as **mlh130506g.001** which should be downloaded as an HDF5 file. The newer file mlh130506g.002 can also be used by extracting the alternating code (97) data and modifying the import code a bit. The newer file was not back-ported for the plots used in this paper because the SNR and ion velocity datasets did not visibly change.
 
 
-Supporting functions are also provided to allow the code to be run.
+*Supporting functions are also provided to allow the code to be run.*
 
 **FUN A-1:** Function to Convert Date to Julian Date: **date2jd.m**
 
