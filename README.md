@@ -3,4 +3,4 @@ Appendicies that support The Pennslyvania State University Masters Thesis "Multi
 
 This research was supported under NSF Grant AGS 12-41407 to The Pennsylvania State University
 
-Read the README.txts for descriptions of the functions as well as how to use them (e.g. get needed datasets).
+Read the README.mds for descriptions of the functions as well as how to use them (e.g. get needed datasets).
